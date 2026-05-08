@@ -1,0 +1,5 @@
+feature_group,num_features,cv_rmse_mean,cv_rmse_std
+All features,295,10.196839179273208,0.5769918476712026
+Extracted audio features only,111,10.566521921077008,0.6805137589509946
+Provided CSV / metadata features only,184,10.874667077278051,0.4572918337163572
+Pitch / voice-quality features,15,11.93029549772712,0.7116910339175625

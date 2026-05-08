@@ -1,0 +1,5 @@
+metric,value
+baseline_test_rmse,12.920718140741965
+best_cv_rmse_after_tuning,10.00026531381393
+final_test_rmse,9.038372204476367
+final_test_mse,81.69217210665101

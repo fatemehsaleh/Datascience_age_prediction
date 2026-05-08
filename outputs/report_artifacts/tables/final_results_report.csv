@@ -1,0 +1,2 @@
+baseline_test_rmse,best_model_before_tuning,best_cv_rmse_after_tuning,final_test_rmse,final_test_mse,best_parameters
+12.920718140741965,HistGradientBoosting,10.00026531381393,9.038372204476367,81.69217210665101,"{'model__min_samples_leaf': 50, 'model__max_leaf_nodes': 63, 'model__max_iter': 500, 'model__max_bins': 128, 'model__learning_rate': 0.03, 'model__l2_regularization': 1.0}"
