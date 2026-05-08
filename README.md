@@ -102,8 +102,6 @@ This project demonstrates that speaker age can be predicted meaningfully from st
 Although the results are promising, the model should be interpreted carefully because prediction reliability varies across the age distribution, especially for older speakers.
 
 
-# Speaker Age Prediction from Audio and Metadata
-=======================================================================================
 **Author:** Fatemeh Saleh  
 **Institution:** Politecnico di Torino  
 **Student ID:** s344410
