@@ -1,6 +1,6 @@
 # Speaker Age Prediction from Audio and Metadata
 
-This project presents a supervised machine learning approach for predicting speaker age from structured speech-related features and metadata. The task is formulated as a regression problem, where the target variable is speaker age and the input features include extracted audio descriptors, pitch and voice-quality measures, silence and pause features, speech-duration indicators, and metadata.
+This project presents a supervised machine Learning approach for predicting speaker age from structured speech-related features and metadata. The task is formulated as a regression problem, where the target variable is speaker age and the input features include extracted audio descriptors, pitch and voice-quality measures, silence and pause features, speech-duration indicators, and metadata.
 
 The project compares a naive baseline model with more advanced tree-based regression models. The final objective is not only to obtain accurate predictions, but also to understand which feature groups contribute most to age prediction and where the model performs less reliably.
 
